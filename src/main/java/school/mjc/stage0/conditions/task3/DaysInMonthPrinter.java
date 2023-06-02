@@ -20,9 +20,9 @@ public class DaysInMonthPrinter {
                     break;
             }
 
-            System.out.println("Number of days in month " + month + ": " + days);
+            System.out.println(days);
         } else {
-            System.out.println("Wrong number!");
+            System.out.println("wrong number!");
         }
     }
 }
