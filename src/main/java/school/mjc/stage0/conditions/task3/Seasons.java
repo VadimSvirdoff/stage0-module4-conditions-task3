@@ -17,7 +17,7 @@ public class Seasons {
 
             System.out.println(season);
         } else {
-            System.out.println("Wrong number!");
+            System.out.println("wrong number!");
         }
     }
 }
